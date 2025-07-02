@@ -1,41 +1,44 @@
-# 💖 Techna
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=800080"/>
 
-✨ Tecnologia com elegância, visão e criatividade.
+<div align="center">
+  <samp>
+      <br>
+      Hi there! I'm <strong>Carla Theodoro</strong>
+      <br>
+  </samp>
+</div>
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcarlatheodoro&s=21&c=00aeff&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img src="https://imgur.com/SGR1Rrh.gif" width="200">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/carla_♡-800080" />
+</div>
 
-Seja bem-vinda ao **Techna** — um universo onde código encontra charme, e inovação dança com estilo. Este repositório é dedicado a projetos que exploram o lado mais criativo, delicado e disruptivo da tecnologia.
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=B084DA&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+</div>
 
----
+<br>
 
-## 💫 Destaques do Universo Techna
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+  <br>
 
-| Projeto          | Descrição                                                                 |
-|------------------|---------------------------------------------------------------------------|
-| 🌺 **Neural Bloom** | Visualização de redes neurais com design floral interativo e elegante. |
-| 🎨 **UI Glow Kit**  | Biblioteca de componentes UI com efeitos suaves em neon pastel.        |
-| 🎧 **PixelPoetry**  | Poemas visuais com som, interatividade e luz.                          |
+</details>
 
-> “Tecnologia também pode ser sensível, estética e poderosa — tudo ao mesmo tempo.” 🌷
+<br>
+<br>
 
----
-
-## 🎀 Stack e Estilo
-
-- **Frontend:** HTML, CSS, JavaScript
-- **Estilo Visual:** Pastel futurista, tipografia leve, glow elegante ✨
-- **Fonte:** [`Quicksand`](https://fonts.google.com/specimen/Quicksand)
-- **Extras:** Emojis florais, transições suaves, cores millennial tech
-
----
-
-## 👩‍💻 Sobre mim
-
-Sou Carla — desenvolvedora, criadora, entusiasta de tecnologia e sonhos bem codificados. Acredito que estilo é uma forma de expressão até na tela.
-
----
-
-## 🤝 Contribua com Estilo
-
-Quer colaborar? Traga seu brilho para o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/Techna.git
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=100&section=footer"/>
