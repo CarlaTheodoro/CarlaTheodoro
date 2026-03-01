@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=800080"/>
 
-<h1 align="center">✨ Hi, I'm Carla Victória ✨</h1>
+<h1 align="center"> Hi, I'm Carla Victória </h1>
 
 <p align="center">
   💻 Systems Development Student • 🎨 Designer • 🇧🇷 Brazil
